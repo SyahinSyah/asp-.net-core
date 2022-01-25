@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{956D68F5-6163-4818-A2F5-6C7FE3AB5116}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Models/Department.cs">
+    <Files>
+      <File FileName="Views/Courses/Edit.cshtml" Line="37" Column="13" />
+      <File FileName="Models/Course.cs" Line="1" Column="1" />
+      <File FileName="Models/OfficeAssigment.cs" Line="1" Column="1" />
+      <File FileName="Controllers/CoursesController.cs" Line="1" Column="1" />
+      <File FileName="Controllers/InstructorsController.cs" Line="138" Column="10" />
+      <File FileName="Views/Instructors/Edit.cshtml" Line="37" Column="56" />
+      <File FileName="Models/SchoolViewModels/AssignedCourseData.cs" Line="11" Column="1" />
+      <File FileName="Views/Instructors/Create.cshtml" Line="49" Column="48" />
+      <File FileName="Models/Department.cs" Line="24" Column="47" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MVCProject" expanded="True">
+            <Node name="MVCProject" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="SchoolViewModels" expanded="True" />
+                <Node name="Department.cs" selected="True" />
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="Instructors" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.MVCProject PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
